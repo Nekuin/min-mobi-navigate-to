@@ -61,6 +61,7 @@ const Calendar = () => {
           }}
           data={events}
           resources={resources}
+          height={"90vh"}
         />
       </div>
     </>
